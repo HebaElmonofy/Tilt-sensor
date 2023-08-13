@@ -1,4 +1,4 @@
-const int statusLED = 13;
+const int statusLED = 3;
 const int switchTilt = 2;
 int val = 0;
 void setup(){
